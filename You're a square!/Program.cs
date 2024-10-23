@@ -16,6 +16,3 @@ static bool IsSquare(int n)
         return false;
     }
 }
-
-Console.WriteLine(IsSquare(49));
-Console.WriteLine(IsSquare(3));
