@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\C#_CODEWARS\Create Phone Number\bin\Debug\net8.0\Create Phone Number.exe
+C:\Users\user\source\repos\C#_CODEWARS\Create Phone Number\bin\Debug\net8.0\Create Phone Number.deps.json
+C:\Users\user\source\repos\C#_CODEWARS\Create Phone Number\bin\Debug\net8.0\Create Phone Number.runtimeconfig.json
+C:\Users\user\source\repos\C#_CODEWARS\Create Phone Number\bin\Debug\net8.0\Create Phone Number.dll
+C:\Users\user\source\repos\C#_CODEWARS\Create Phone Number\bin\Debug\net8.0\Create Phone Number.pdb
+C:\Users\user\source\repos\C#_CODEWARS\Create Phone Number\obj\Debug\net8.0\Create Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\C#_CODEWARS\Create Phone Number\obj\Debug\net8.0\Create Phone Number.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\C#_CODEWARS\Create Phone Number\obj\Debug\net8.0\Create Phone Number.AssemblyInfo.cs
+C:\Users\user\source\repos\C#_CODEWARS\Create Phone Number\obj\Debug\net8.0\Create Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#_CODEWARS\Create Phone Number\obj\Debug\net8.0\Create Phone Number.dll
+C:\Users\user\source\repos\C#_CODEWARS\Create Phone Number\obj\Debug\net8.0\refint\Create Phone Number.dll
+C:\Users\user\source\repos\C#_CODEWARS\Create Phone Number\obj\Debug\net8.0\Create Phone Number.pdb
+C:\Users\user\source\repos\C#_CODEWARS\Create Phone Number\obj\Debug\net8.0\Create Phone Number.genruntimeconfig.cache
+C:\Users\user\source\repos\C#_CODEWARS\Create Phone Number\obj\Debug\net8.0\ref\Create Phone Number.dll
