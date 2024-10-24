@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make the Deadfish Swim", "Make the Deadfish Swim\Make the Deadfish Swim.csproj", "{261AA3BA-0F70-486F-9F75-28B793A18298}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Make the Deadfish Swim", "Make the Deadfish Swim\Make the Deadfish Swim.csproj", "{261AA3BA-0F70-486F-9F75-28B793A18298}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create Phone Number", "Create Phone Number\Create Phone Number.csproj", "{5D371B0C-168E-4F84-BFA3-45907585AE2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create Phone Number", "Create Phone Number\Create Phone Number.csproj", "{5D371B0C-168E-4F84-BFA3-45907585AE2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stop gninnipS My sdroW!", "Stop gninnipS My sdroW!\Stop gninnipS My sdroW!.csproj", "{B9CC8DF0-EA04-4D34-818B-6BAAE3E9959D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stop gninnipS My sdroW!", "Stop gninnipS My sdroW!\Stop gninnipS My sdroW!.csproj", "{B9CC8DF0-EA04-4D34-818B-6BAAE3E9959D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You're a square!", "You're a square!\You're a square!.csproj", "{39272780-996C-4251-A781-A9AE019E630A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "You're a square!", "You're a square!\You're a square!.csproj", "{39272780-996C-4251-A781-A9AE019E630A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exes and Ohs", "Sum of two lowest positive integers\Exes and Ohs.csproj", "{2EB76C22-AEFE-4612-977F-06F5DD186E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace With Alphabet Position", "Replace With Alphabet Position\Replace With Alphabet Position.csproj", "{B729FE2D-DDB1-494A-AB03-FF781B629A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mumbling", "Mumbling\Mumbling.csproj", "{EFA1EA7A-5CA5-45B3-BE48-B81235238C42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{39272780-996C-4251-A781-A9AE019E630A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39272780-996C-4251-A781-A9AE019E630A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39272780-996C-4251-A781-A9AE019E630A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB76C22-AEFE-4612-977F-06F5DD186E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB76C22-AEFE-4612-977F-06F5DD186E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB76C22-AEFE-4612-977F-06F5DD186E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB76C22-AEFE-4612-977F-06F5DD186E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B729FE2D-DDB1-494A-AB03-FF781B629A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B729FE2D-DDB1-494A-AB03-FF781B629A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B729FE2D-DDB1-494A-AB03-FF781B629A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B729FE2D-DDB1-494A-AB03-FF781B629A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA1EA7A-5CA5-45B3-BE48-B81235238C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA1EA7A-5CA5-45B3-BE48-B81235238C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA1EA7A-5CA5-45B3-BE48-B81235238C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA1EA7A-5CA5-45B3-BE48-B81235238C42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
